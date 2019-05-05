@@ -1,0 +1,19 @@
+{
+    "name": "diegonella/bmmm",
+    "description": "beeMarket Module Maker",
+    "authors": [
+        {
+            "name": "Diego Gonella",
+            "email": "diego@meemba.com.ar"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "diegonella\\bmmm\\BmMMServiceProvider"
+            ]
+        }
+    }
+}
